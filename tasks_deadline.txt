@@ -1,9 +1,5 @@
-  Object Oriented Design  :  03/17/1PM   
-Graphics and Multimedia :   03/13/4PM
-    Compiler :03/15/11PM
-  Social And Analysis Newtork Lab: 03/14/2PM
-
-
+Object Oriented Design  :  03/17/1PM   
+GMM : 03/17/2PM
 
 
 
