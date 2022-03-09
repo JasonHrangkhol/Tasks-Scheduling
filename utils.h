@@ -66,6 +66,7 @@ void buildNodes(vector<Node*> &info, int number_of_tasks, vector <string> &tasks
     }
 }
 
+
 void buildGraph(Graph &G, vector<Node*> &info, int number_of_tasks) {
     for(int i=1;i<=number_of_tasks;i++){
 
