@@ -1,5 +1,4 @@
 app2.cpp
-node.h
 trim.cpp
 *.exe
 main1.cpp
@@ -7,4 +6,4 @@ main.cpp
 app1.cpp
 tasks.txt
 .vscode/
-App_modify.cpp
+app_modify.cpp
